@@ -57,20 +57,11 @@ Documentation URL: https://pdfmake.github.io/docs/
 
 using npm:
 ```
-git clone https://github.com/bpampuch/pdfmake.git
+git clone https://github.com/11elements/pdfmake.git
 cd pdfmake
 npm install
 npm run build
 ```
-
-using yarn:
-```
-git clone https://github.com/bpampuch/pdfmake.git
-cd pdfmake
-yarn
-yarn run build
-```
-
 ## License
 MIT
 
